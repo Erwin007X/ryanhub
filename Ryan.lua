@@ -6122,4 +6122,4 @@ end)
 
 OrionLib:Init()
 
-Notify("Loading Config & Function Complete!!", 5)v
+Notify("Loading Config & Function Complete!!", 5)
